@@ -22,7 +22,7 @@ C'est un outil de conteneurisation parmi bien d'autres, qui possède comme avant
 
 Admettons que je veuille exécuter mon application dans un environnement node v.18, il m'est tout à fait possible de le faire et de la maintenir dans cet environnement. Docker nous permet donc une **indépendance vis-à-vis des systèmes d'exploitation individuels**.
 
-Les avantages de cette indépendance sont plurielles, puisque l'environnement Docker restera imperméable aux mises à jour système de la machine hôte, lesquelles peuvent compromettre l'intégrité d'un projet.
+Les avantages de cette indépendance sont pluriels, puisque l'environnement Docker restera imperméable aux mises à jour système de la machine hôte, lesquelles peuvent compromettre l'intégrité d'un projet.
 
 ### Comment je conteneurise mon application React ?
 
