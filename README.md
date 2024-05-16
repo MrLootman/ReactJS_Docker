@@ -26,7 +26,7 @@ Les avantages de cette indépendance sont pluriels, puisque l'environnement Dock
 
 ### Comment je conteneurise mon application React ?
 
-On part du principe que tu as ton Docker Engine (Docker Desktop). En théorie, on pourrait lancer le conteneur _à la main_ en écrivant une série de commandes. Nous, nous allons préférer Docker Compose, u logiciel associé à Docker permettant d'exécuter des applications à partir de multiples conteneurs. Il est basé sur un fichier YAML qui permet de définir les services et les paramètres de leurs créations et ainsi de les démarrer par une commande unique. 
+On part du principe que tu as ton Docker Engine (Docker Desktop). En théorie, on pourrait lancer le conteneur _à la main_ en écrivant une série de commandes. Nous, nous allons préférer Docker Compose, un logiciel associé à Docker permettant d'exécuter des applications à partir de multiples conteneurs. Il est basé sur un fichier YAML qui permet de définir les services et les paramètres de leurs créations et ainsi de les démarrer par une commande unique. 
 
 En associant l'existence d'un fichier docker-compose.yml et d'un Dockerfile, le reste se réalise en une seule commande :
 
